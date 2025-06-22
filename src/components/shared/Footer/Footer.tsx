@@ -61,7 +61,7 @@ const Footer = () => {
                 Monday-Friday: 08am-9pm
               </p>
               <h1 className="text-neutral-15 font-Sora text-xl font-semibold mt-1">
-                +880 1608249337
+                +880 1882408643
               </h1>
             </div>
           </div>
@@ -73,7 +73,7 @@ const Footer = () => {
                 Need help with your order?
               </p>
               <h1 className="text-neutral-15 font-Sora text-xl font-semibold mt-1">
-                rahulsd380@gmail.com
+                sowravhasan101@gmail.com
               </h1>
             </div>
           </div>
